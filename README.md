@@ -1,6 +1,6 @@
 # bird data
 
-![ruby-crowned kinglet](images/rc_kinglet.jpeg)
+![ruby-crowned kinglet](images/my_kinglet.jpeg)
 
 **work in progress** 
 

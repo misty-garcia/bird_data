@@ -1,8 +1,10 @@
 # bird data
 
-![ruby-crowned kinglet](images/my_kinglet.jpg)
+*work in progress*
 
-**work in progress** 
+![ruby-crowned kinglet](images/my_kinglet.jpg)
+<sub><sup>ruby-crowned kinglet taken by misty garcia on an iphone</sup></sub>
+
 
 exploring ways to share ebird data
 

@@ -1,8 +1,12 @@
 # bird data
 
+![ruby-crowned kinglet](images/rc_kinglet.jpeg)
+
 **work in progress** 
 
 exploring ways to share ebird data
+
+currently: 2023 data from bexar county
 
 eventually: include surrounding counties and multiple years
 

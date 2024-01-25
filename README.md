@@ -1,15 +1,14 @@
-# bird data
+# eBird Data
 
-*work in progress*
+exploring ways to share ebird data, specifically for Bexar Audobon Society (BAS)
+
+### vizzes
+learning to tableau: 
+[dashboarding](https://public.tableau.com/app/profile/misty.garcia2134/vizzes)
+
+
+### real bird
 
 ![ruby-crowned kinglet](images/my_kinglet.jpg)
-<sub><sup>ruby-crowned kinglet taken by misty garcia on an iphone</sup></sub>
+*ruby-crowned kinglet taken by misty garcia on an iphone*
 
-
-exploring ways to share ebird data
-
-currently: 2023 data from bexar county
-
-eventually: include surrounding counties and multiple years
-
-[dashboarding](https://public.tableau.com/app/profile/misty.garcia2134/viz/bexar_ebird_2023/Dashboard1)
